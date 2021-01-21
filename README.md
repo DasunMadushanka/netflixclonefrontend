@@ -1,4 +1,9 @@
 <h3>View <span> https://adoring-fermi-97ed2c.netlify.app/ </span></h3>
+.h3{
+color:blue;
+}
+<h4>By : MADUSAHNKA KPD. </h4>
+<hr>
 
 
 # Getting Started with Create React App
