@@ -1,4 +1,4 @@
-<h3>View <span> netflix-clone-4d61f.web.app </span></h3>
+<h3>View <span> <a href="netflix-clone-4d61f.web.app"> netflix-clone-4d61f.web.app </a></span></h3>
 <br/>
 <h4>By : MADUSAHNKA KPD. </h4>
 <br/>
